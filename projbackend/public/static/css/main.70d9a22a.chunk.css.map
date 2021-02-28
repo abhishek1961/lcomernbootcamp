@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,4BAGE,eACF,CAEA,KACE,kBACF,CAEA,WAAW,UAAU","file":"main.70d9a22a.chunk.css","sourcesContent":[".btn,\n.jumbotron,\n.nav :hover {\n  border-radius: 0px;\n}\n\nbody {\n  background: #343a40;\n}\n\n.btn-block{width:100%}"]}
